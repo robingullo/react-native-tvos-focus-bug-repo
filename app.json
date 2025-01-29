@@ -20,12 +20,14 @@
     "android": {
       "splash": {
         "image": "./assets/images/icon-1920x720.png"
-      }
+      },
+      "package": "com.anonymous.reactnativetvosfocusbugrepo"
     },
     "ios": {
       "splash": {
         "image": "./assets/images/icon-1920x720.png"
-      }
+      },
+      "bundleIdentifier": "com.anonymous.reactnativetvosfocusbugrepo"
     },
     "newArchEnabled": true,
     "name": "react-native-tvos-focus-bug-repo",
